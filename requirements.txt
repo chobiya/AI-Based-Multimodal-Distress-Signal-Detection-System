@@ -1,0 +1,12 @@
+speechrecognition
+opencv-python
+mediapipe
+twilio
+geopy
+pyttsx3
+streamlit
+geocoder
+bcrypt==4.1.2
+folium==0.14.0
+streamlit-folium==0.13.0
+streamlit-geolocation

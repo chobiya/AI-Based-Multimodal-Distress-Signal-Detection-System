@@ -1,0 +1,14 @@
+[
+  {
+    "trigger": "help",
+    "message": "You're not alone. Contact 1091 or press emergency call."
+  },
+  {
+    "trigger": "emergency",
+    "message": "Stay calm. Your location is being shared. Safety team will arrive shortly."
+  },
+  {
+    "trigger": "gesture",
+    "message": "Gesture detected. A silent SOS signal has been sent."
+  }
+]
